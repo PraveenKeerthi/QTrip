@@ -1718,45 +1718,6 @@
     }
   ],
   "reservations": [
-    {
-      "name": "Rudra Shrivastava",
-      "date": "2022-06-19T00:00:00.000Z",
-      "person": "2",
-      "adventure": "7938812489",
-      "adventureName": "La Anrncast",
-      "price": 7424,
-      "id": "5e50a5f6629ea7ef",
-      "time": "Wed Jun 08 2022 12:00:46 GMT+0530 (India Standard Time)"
-    },
-    {
-      "name": "Navneet",
-      "date": "2022-06-10T00:00:00.000Z",
-      "person": "2",
-      "adventure": "8632343612",
-      "adventureName": "Nesbridge",
-      "price": 6632,
-      "id": "fead1b38324ecd98",
-      "time": "Wed Jun 08 2022 12:03:00 GMT+0530 (India Standard Time)"
-    },
-    {
-      "name": "Nakkara",
-      "date": "2022-06-13T00:00:00.000Z",
-      "person": "1",
-      "adventure": "9824784423",
-      "adventureName": "Sonkins Sands",
-      "price": 2728,
-      "id": "75209e8d2052a86b",
-      "time": "Wed Jun 08 2022 12:18:13 GMT+0530 (India Standard Time)"
-    },
-    {
-      "name": "Smith",
-      "date": "2022-06-10T00:00:00.000Z",
-      "person": "2",
-      "adventure": "3396851354",
-      "adventureName": "Mitsbowich",
-      "price": 2002,
-      "id": "fd148cfb020ba0b9",
-      "time": "Wed Jun 08 2022 12:20:21 GMT+0530 (India Standard Time)"
-    }
+    
   ]
 }
